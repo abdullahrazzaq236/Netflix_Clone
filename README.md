@@ -1,3 +1,4 @@
 <b> NetFlix - Clone <b> 
 
-C:\Users\Abdullah\OneDrive\Desktop\Web Develpment\SIGMA DEVELOPMENT\Video_53\Assets\images\neoflix.png
+<img width="947" height="443" alt="neoflix" src="https://github.com/user-attachments/assets/f47564d0-50a5-4e4a-8418-a1b591b406c0" />
+
