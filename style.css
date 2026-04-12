@@ -297,7 +297,7 @@ footer a {
     .hero-span2 {
         font-size: 18px;
     }
-    
+
     .hero-span3 {
         font-size: 15px;
     }
@@ -346,4 +346,32 @@ footer a {
         align-items: center;
 
     }
+}
+
+@media screen and (max-width:430px) {
+
+    .main {
+    height: 125vh;
+}
+    .main .box {
+    height: 125vh;
+}
+
+.hero {
+    width: 60vw;
+    padding: 0 15px;
+}
+
+.hero-span1 {
+    font-size: 28px;
+}
+
+.faqbox {
+    font-size: 15px;
+}
+
+.btn {
+       font-size: 12px;
+  
+}
 }
